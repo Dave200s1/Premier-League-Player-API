@@ -1,4 +1,5 @@
-![Premier League Logo](LeagueLogo.png){: style="width:150px; height:auto;"}
+<img src="LeagueLogo.png" alt="Premier League Logo" width="100" />
+
 # Premier-League-Player-API
 ![npm bundle size (version)](https://img.shields.io/badge/version-0.0.1-darkblue)  ![npm bundle size (version)](https://img.shields.io/badge/language-JavaScript-yellow)  ![npm bundle size (version)](https://img.shields.io/badge/framework-Express-lightgreen) 
 
