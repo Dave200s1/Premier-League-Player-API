@@ -2,7 +2,7 @@
 # Premier-League-Player-API
 ![npm bundle size (version)](https://img.shields.io/badge/version-0.0.1-darkblue)  ![npm bundle size (version)](https://img.shields.io/badge/language-JavaScript-yellow)  ![npm bundle size (version)](https://img.shields.io/badge/framework-Express-lightgreen) 
 
-Eine RESTful API zur Verwaltung von Premier League-Spielerdaten
+Diese RESTful API ermöglicht die Verwaltung von Spielerdaten der Premier League. Sie bietet vollständige CRUD-Funktionen (Create, Read, Update, Delete) und spezielle Features wie Spielertransfers zwischen Vereinen.
 
 ## 📌 Projektübersicht
 
